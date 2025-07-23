@@ -1,0 +1,8 @@
+.logo
+{
+    background-image:url("../imagenes/logo.png"); 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-size:contain; 
+    border:solid 0px;
+}

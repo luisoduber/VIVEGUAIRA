@@ -1,0 +1,33 @@
+table,
+thead,
+tr,
+tbody,
+th,
+td {
+    text-align: center;
+}
+
+.table td {
+    text-align: center;
+    font-size: 14px;
+}
+
+.table th {
+    text-align: center;
+    font-size: 14px;
+}
+
+td.details-control {
+    background: url('../../img/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+
+td.nroTck {
+    background: url('../../img/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+
+
+tr.shown td.details-control {
+    background: url('../../img/details_close.png') no-repeat center center;
+}

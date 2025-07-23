@@ -1,0 +1,25 @@
+.logo
+{
+    background-image:url("../imagenes/logo.png"); 
+    padding: 60px 30px; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-size:70% 70%; 
+    border:solid 0px;
+}
+.fond{ 
+    background:url('../imagenes/fond-log.jpg'); 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-size:cover;
+}
+.fw-bold{ font-weight: bold;}
+#btnLog
+{ 
+    background-color: #264574;
+    border: solid #264574;
+    border-radius:14px;
+    font-size: 18px;
+}
+.subTit { color: #264574; }
+
