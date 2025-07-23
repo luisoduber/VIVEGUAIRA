@@ -216,6 +216,8 @@ public function listUsu()
 				"idUsu"=>$btn,
 				"rs"=>$rsDat['rs'],
 				"ced"=>$rsDat['ced'],
+				"telf"=>$rsDat['telf'],
+				"email"=>$rsDat['email'],
 				"nombPerf"=>$rsDat['nombPerf'],
 				"nombStat"=>$rsDat['nombStat']
 			);

@@ -166,6 +166,8 @@ function iniTbl()
             {"data":"idUsu", className: "text-center"},
             {"data":"rs", className: "text-center"},
             {"data":"ced", className: "text-center"},
+            {"data":"telf", className: "text-center"},
+            {"data":"email", className: "text-center"},
             {"data":"nombPerf", className: "text-center"},
             {"data":"nombStat", className: "text-center"}
         ],
